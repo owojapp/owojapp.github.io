@@ -169,3 +169,7 @@ let chunks = [];
             setTimeout(stopWatch, 10);
         }
     }
+
+    function gotosetoran(){
+        window.location.replace("setoran.html");
+    }
